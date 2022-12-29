@@ -3,6 +3,9 @@ https://api.openproxylist.xyz/socks4.txt
 https://www.proxy-list.download/api/v1/get?type=socks4
 https://openproxylist.xyz/socks4.txt
 https://proxyspace.pro/socks4.txt
+https://raw.githubusercontent.com/fahimscirex/proxybd/master/anonymous-proxylist/socks4.txt
+https://raw.githubusercontent.com/fahimscirex/proxybd/master/proxylist/socks4.txt
+https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/socks4/socks4.txt
 https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt
 https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt
 https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt
